@@ -1,0 +1,457 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:2:1-86:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\0e836f6cb719c20a243abcbc16b2dbc4\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\d2492a7b6e078fb62a8752a0d3422c63\navigation-ui-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\bc1532c0caa3e568f796fb8ea89a759c\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\4124b23a2d66879dcc3a8c9b754eaa07\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\c3fdbc22891e9630e713321546a712af\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\460af2c6f090a414131f560f12d5b6a4\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\4a33679867cdc04dacf50e3626e3a91c\navigation-fragment-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\ba8f86341007d8dc981a1f75d737aa36\lifecycle-extensions-2.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.sucho:placepicker:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7abc7e491187b3683ce27edcc55959a2\jetified-placepicker-1.1.1\AndroidManifest.xml:2:1-17:12
+MERGED from [io.wf9a5m75:redis-android:1.1.6] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9fcf33d47b8469728cfb032530ca758f\jetified-redis-android-1.1.6\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.core:core-ktx:1.3.0-rc01] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\32fd53afa55f8bef5575ae78dd3c2869\jetified-core-ktx-1.3.0-rc01\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\38dccb96bd54d30f45add8da4f654b71\jetified-lifecycle-viewmodel-ktx-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\afe1263cc4f6e19df823061096a0de44\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\b61a57b6945cda3b9e40deb38ea977bb\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\c99e4c5653c8d1154128f775803e41d7\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\79a823bff99eadb69eccf807c6f4be88\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\85dded25ac114dd1edec19ba93c36c11\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7d0a543ac3fc4328d1694217563cf12e\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\74018ad5351e1f7b84ef8353a821f84c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9a077166935ae5f2f1880a0d972f1709\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\1254ee44ce4c2cd1d1dfc1b52ccf3773\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\62836466526740e63c9375402246aa72\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7391fa84a217d9eb6dcebf99e37fc0c8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\236a998e135b33b345a4d4b9c63efd08\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\886ce6da29e3e1ae3a572abfb7f0c1a5\navigation-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\d62599308d5ef523c514c7942a00c4e9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a057c059229a9a0da2dfbe2bb2ed7330\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\1d11a372a8ff897f3e71e95d57113529\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\dcc1bdc441fe33bc796a180ff973f353\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7cc60cba9f98fa442125f78ad12b5135\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\3db179a9e376048ae63f8565d7d170a9\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a5679dd333713c51f7251dcc44af4b99\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\28efd53754fc010e9ceb6802087bb055\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\093e54323149472f869090a352b4c998\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6744446279692f5dda99d39f2e25587f\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\e81fb0e93aadbeb2b394ef505d760802\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\c4d3faf04592ead831b6be1f38431a9d\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\43e2720068483c1007fa0772e46b807b\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\dcdfe7b8aa91b7c5b6a8a3d01edf95f5\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\d2a578c07807ad03af52d2cebb78cbda\navigation-common-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\8ac34a892b145eba7a88fdf779e4caa9\core-1.3.0-rc01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\e7dd3c7bba059d55010c6de66a10db87\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\69f3b30d59d06ada26e80da16fd74a49\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a37896ba73b6faed495531737bbd2ce8\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\220fb9268ce7bf451f9c52ebc03098f5\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a3883d20951daff987286d3d8cc14f48\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a9d842f4c96fe55ab26e891ae32ac0ba\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f37a2d3da8d7d2164ea1a542e75d251f\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\34c055fbe9c9c903c5d74c77fc0d587e\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\dbeae6401e93555bb6292986c873ebb9\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\c084c74c8fceef5a45132fe4b8124380\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f85fc18cb25feaa8cc5a3187d5560837\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\fbca19b3f4427bd6dc755d1ee49a54fb\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\5632645692dc6c8a7c969e9bdf858ec2\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6289f343ef0651ebd0a0c5186caee0b1\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\e8b122b5c5e3bb0dbd69e426938f914d\jetified-transport-api-2.1.0\AndroidManifest.xml:15:1-22:12
+INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:2:1-86:12
+		INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:2:1-86:12
+		INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [io.wf9a5m75:redis-android:1.1.6] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9fcf33d47b8469728cfb032530ca758f\jetified-redis-android-1.1.6\AndroidManifest.xml:9:5-67
+MERGED from [io.wf9a5m75:redis-android:1.1.6] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9fcf33d47b8469728cfb032530ca758f\jetified-redis-android-1.1.6\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [io.wf9a5m75:redis-android:1.1.6] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9fcf33d47b8469728cfb032530ca758f\jetified-redis-android-1.1.6\AndroidManifest.xml:10:5-79
+MERGED from [io.wf9a5m75:redis-android:1.1.6] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9fcf33d47b8469728cfb032530ca758f\jetified-redis-android-1.1.6\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:8:5-80
+MERGED from [io.wf9a5m75:redis-android:1.1.6] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9fcf33d47b8469728cfb032530ca758f\jetified-redis-android-1.1.6\AndroidManifest.xml:11:5-80
+MERGED from [io.wf9a5m75:redis-android:1.1.6] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9fcf33d47b8469728cfb032530ca758f\jetified-redis-android-1.1.6\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:9:5-81
+MERGED from [io.wf9a5m75:redis-android:1.1.6] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9fcf33d47b8469728cfb032530ca758f\jetified-redis-android-1.1.6\AndroidManifest.xml:12:5-81
+MERGED from [io.wf9a5m75:redis-android:1.1.6] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9fcf33d47b8469728cfb032530ca758f\jetified-redis-android-1.1.6\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:11:5-84:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\bc1532c0caa3e568f796fb8ea89a759c\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\bc1532c0caa3e568f796fb8ea89a759c\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:13:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\460af2c6f090a414131f560f12d5b6a4\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\460af2c6f090a414131f560f12d5b6a4\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\ba8f86341007d8dc981a1f75d737aa36\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\ba8f86341007d8dc981a1f75d737aa36\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.sucho:placepicker:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7abc7e491187b3683ce27edcc55959a2\jetified-placepicker-1.1.1\AndroidManifest.xml:11:5-15:19
+MERGED from [com.sucho:placepicker:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7abc7e491187b3683ce27edcc55959a2\jetified-placepicker-1.1.1\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\79a823bff99eadb69eccf807c6f4be88\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\79a823bff99eadb69eccf807c6f4be88\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\85dded25ac114dd1edec19ba93c36c11\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\85dded25ac114dd1edec19ba93c36c11\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7d0a543ac3fc4328d1694217563cf12e\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7d0a543ac3fc4328d1694217563cf12e\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\74018ad5351e1f7b84ef8353a821f84c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\74018ad5351e1f7b84ef8353a821f84c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9a077166935ae5f2f1880a0d972f1709\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9a077166935ae5f2f1880a0d972f1709\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\8ac34a892b145eba7a88fdf779e4caa9\core-1.3.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\8ac34a892b145eba7a88fdf779e4caa9\core-1.3.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\69f3b30d59d06ada26e80da16fd74a49\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\69f3b30d59d06ada26e80da16fd74a49\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f37a2d3da8d7d2164ea1a542e75d251f\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f37a2d3da8d7d2164ea1a542e75d251f\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6289f343ef0651ebd0a0c5186caee0b1\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6289f343ef0651ebd0a0c5186caee0b1\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0-rc01] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\8ac34a892b145eba7a88fdf779e4caa9\core-1.3.0-rc01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:17:9-40
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:19:9-21:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9a077166935ae5f2f1880a0d972f1709\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9a077166935ae5f2f1880a0d972f1709\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:20:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:26:9-28:55
+	android:value
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:27:13-58
+activity#com.example.busapp.ui.gallery.BusScheduleActivity
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:31:9-39:20
+	android:parentActivityName
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:33:13-70
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:32:13-59
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:36:13-38:64
+	android:value
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:38:17-61
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:37:17-63
+activity#com.example.busapp.ui.gallery.BusRouteActivity
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:41:9-49:20
+	android:parentActivityName
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:43:13-55
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:42:13-56
+activity#com.example.busapp.ui.gallery.BusStationActivity
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:51:9-59:20
+	android:parentActivityName
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:53:13-70
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:52:13-58
+activity#com.example.busapp.ui.home.ResultActivity
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:61:9-69:20
+	android:parentActivityName
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:63:13-55
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:62:13-51
+activity#com.example.busapp.MainActivity
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:71:9-80:20
+	android:label
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:73:13-45
+	android:theme
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:74:13-56
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:72:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:75:13-79:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:76:17-69
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:76:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:78:17-77
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:78:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:81:9-83:57
+	android:resource
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:83:13-54
+	android:name
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml:82:13-43
+uses-sdk
+INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\0e836f6cb719c20a243abcbc16b2dbc4\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\0e836f6cb719c20a243abcbc16b2dbc4\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\d2492a7b6e078fb62a8752a0d3422c63\navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\d2492a7b6e078fb62a8752a0d3422c63\navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\bc1532c0caa3e568f796fb8ea89a759c\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\bc1532c0caa3e568f796fb8ea89a759c\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:7:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\4124b23a2d66879dcc3a8c9b754eaa07\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\4124b23a2d66879dcc3a8c9b754eaa07\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\c3fdbc22891e9630e713321546a712af\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\c3fdbc22891e9630e713321546a712af\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\460af2c6f090a414131f560f12d5b6a4\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\460af2c6f090a414131f560f12d5b6a4\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\4a33679867cdc04dacf50e3626e3a91c\navigation-fragment-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\4a33679867cdc04dacf50e3626e3a91c\navigation-fragment-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\ba8f86341007d8dc981a1f75d737aa36\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\ba8f86341007d8dc981a1f75d737aa36\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.sucho:placepicker:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7abc7e491187b3683ce27edcc55959a2\jetified-placepicker-1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sucho:placepicker:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7abc7e491187b3683ce27edcc55959a2\jetified-placepicker-1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [io.wf9a5m75:redis-android:1.1.6] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9fcf33d47b8469728cfb032530ca758f\jetified-redis-android-1.1.6\AndroidManifest.xml:7:5-44
+MERGED from [io.wf9a5m75:redis-android:1.1.6] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9fcf33d47b8469728cfb032530ca758f\jetified-redis-android-1.1.6\AndroidManifest.xml:7:5-44
+MERGED from [androidx.core:core-ktx:1.3.0-rc01] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\32fd53afa55f8bef5575ae78dd3c2869\jetified-core-ktx-1.3.0-rc01\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0-rc01] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\32fd53afa55f8bef5575ae78dd3c2869\jetified-core-ktx-1.3.0-rc01\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\38dccb96bd54d30f45add8da4f654b71\jetified-lifecycle-viewmodel-ktx-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\38dccb96bd54d30f45add8da4f654b71\jetified-lifecycle-viewmodel-ktx-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\afe1263cc4f6e19df823061096a0de44\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\afe1263cc4f6e19df823061096a0de44\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\b61a57b6945cda3b9e40deb38ea977bb\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\b61a57b6945cda3b9e40deb38ea977bb\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\c99e4c5653c8d1154128f775803e41d7\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\c99e4c5653c8d1154128f775803e41d7\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\79a823bff99eadb69eccf807c6f4be88\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\79a823bff99eadb69eccf807c6f4be88\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\85dded25ac114dd1edec19ba93c36c11\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\85dded25ac114dd1edec19ba93c36c11\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7d0a543ac3fc4328d1694217563cf12e\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7d0a543ac3fc4328d1694217563cf12e\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\74018ad5351e1f7b84ef8353a821f84c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\74018ad5351e1f7b84ef8353a821f84c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9a077166935ae5f2f1880a0d972f1709\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\9a077166935ae5f2f1880a0d972f1709\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\1254ee44ce4c2cd1d1dfc1b52ccf3773\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\1254ee44ce4c2cd1d1dfc1b52ccf3773\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\62836466526740e63c9375402246aa72\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\62836466526740e63c9375402246aa72\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7391fa84a217d9eb6dcebf99e37fc0c8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7391fa84a217d9eb6dcebf99e37fc0c8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\236a998e135b33b345a4d4b9c63efd08\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\236a998e135b33b345a4d4b9c63efd08\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\886ce6da29e3e1ae3a572abfb7f0c1a5\navigation-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\886ce6da29e3e1ae3a572abfb7f0c1a5\navigation-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\d62599308d5ef523c514c7942a00c4e9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\d62599308d5ef523c514c7942a00c4e9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a057c059229a9a0da2dfbe2bb2ed7330\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a057c059229a9a0da2dfbe2bb2ed7330\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\1d11a372a8ff897f3e71e95d57113529\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\1d11a372a8ff897f3e71e95d57113529\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\dcc1bdc441fe33bc796a180ff973f353\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\dcc1bdc441fe33bc796a180ff973f353\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7cc60cba9f98fa442125f78ad12b5135\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7cc60cba9f98fa442125f78ad12b5135\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\3db179a9e376048ae63f8565d7d170a9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\3db179a9e376048ae63f8565d7d170a9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a5679dd333713c51f7251dcc44af4b99\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a5679dd333713c51f7251dcc44af4b99\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\28efd53754fc010e9ceb6802087bb055\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\28efd53754fc010e9ceb6802087bb055\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\093e54323149472f869090a352b4c998\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\093e54323149472f869090a352b4c998\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6744446279692f5dda99d39f2e25587f\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6744446279692f5dda99d39f2e25587f\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\e81fb0e93aadbeb2b394ef505d760802\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\e81fb0e93aadbeb2b394ef505d760802\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\c4d3faf04592ead831b6be1f38431a9d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\c4d3faf04592ead831b6be1f38431a9d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\43e2720068483c1007fa0772e46b807b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\43e2720068483c1007fa0772e46b807b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\dcdfe7b8aa91b7c5b6a8a3d01edf95f5\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\dcdfe7b8aa91b7c5b6a8a3d01edf95f5\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\d2a578c07807ad03af52d2cebb78cbda\navigation-common-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\d2a578c07807ad03af52d2cebb78cbda\navigation-common-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\8ac34a892b145eba7a88fdf779e4caa9\core-1.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\8ac34a892b145eba7a88fdf779e4caa9\core-1.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\e7dd3c7bba059d55010c6de66a10db87\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\e7dd3c7bba059d55010c6de66a10db87\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\69f3b30d59d06ada26e80da16fd74a49\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\69f3b30d59d06ada26e80da16fd74a49\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a37896ba73b6faed495531737bbd2ce8\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a37896ba73b6faed495531737bbd2ce8\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\220fb9268ce7bf451f9c52ebc03098f5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\220fb9268ce7bf451f9c52ebc03098f5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a3883d20951daff987286d3d8cc14f48\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a3883d20951daff987286d3d8cc14f48\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a9d842f4c96fe55ab26e891ae32ac0ba\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\a9d842f4c96fe55ab26e891ae32ac0ba\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f37a2d3da8d7d2164ea1a542e75d251f\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f37a2d3da8d7d2164ea1a542e75d251f\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\34c055fbe9c9c903c5d74c77fc0d587e\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\34c055fbe9c9c903c5d74c77fc0d587e\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\dbeae6401e93555bb6292986c873ebb9\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\dbeae6401e93555bb6292986c873ebb9\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\c084c74c8fceef5a45132fe4b8124380\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\c084c74c8fceef5a45132fe4b8124380\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f85fc18cb25feaa8cc5a3187d5560837\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f85fc18cb25feaa8cc5a3187d5560837\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\fbca19b3f4427bd6dc755d1ee49a54fb\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\fbca19b3f4427bd6dc755d1ee49a54fb\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\5632645692dc6c8a7c969e9bdf858ec2\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\5632645692dc6c8a7c969e9bdf858ec2\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6289f343ef0651ebd0a0c5186caee0b1\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6289f343ef0651ebd0a0c5186caee0b1\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\e8b122b5c5e3bb0dbd69e426938f914d\jetified-transport-api-2.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\e8b122b5c5e3bb0dbd69e426938f914d\jetified-transport-api-2.1.0\AndroidManifest.xml:18:5-20:41
+INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\paikt\AndroidStudioProjects\BusApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:10:22-73
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:14:9-20:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:17:13-62
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:19:13-55
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:18:13-61
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7ed36d785760bc419fe0bc2abf8cabc7\jetified-places-2.2.0\AndroidManifest.xml:15:13-91
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\548a07815db5f81584e50a047c55f945\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.sucho.placepicker.PlacePickerActivity
+ADDED from [com.sucho:placepicker:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7abc7e491187b3683ce27edcc55959a2\jetified-placepicker-1.1.1\AndroidManifest.xml:12:9-14:67
+	android:label
+		ADDED from [com.sucho:placepicker:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7abc7e491187b3683ce27edcc55959a2\jetified-placepicker-1.1.1\AndroidManifest.xml:14:13-64
+	android:name
+		ADDED from [com.sucho:placepicker:1.1.1] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\7abc7e491187b3683ce27edcc55959a2\jetified-placepicker-1.1.1\AndroidManifest.xml:13:13-69
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\85dded25ac114dd1edec19ba93c36c11\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\85dded25ac114dd1edec19ba93c36c11\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\85dded25ac114dd1edec19ba93c36c11\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\85dded25ac114dd1edec19ba93c36c11\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\6bb21e662c35e052f4501c9f56fb15f0\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\429bf83acb3066477177e7156c8a332a\jetified-transport-runtime-2.1.0\AndroidManifest.xml:33:13-132
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f37a2d3da8d7d2164ea1a542e75d251f\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f37a2d3da8d7d2164ea1a542e75d251f\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f37a2d3da8d7d2164ea1a542e75d251f\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f37a2d3da8d7d2164ea1a542e75d251f\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\paikt\.gradle\caches\transforms-2\files-2.1\f37a2d3da8d7d2164ea1a542e75d251f\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
