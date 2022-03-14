@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.wf9a5m75:redis-android:1.1.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9fcf33d47b8469728cfb032530ca758f/jetified-redis-android-1.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9fcf33d47b8469728cfb032530ca758f/jetified-redis-android-1.1.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
