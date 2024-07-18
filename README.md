@@ -107,3 +107,5 @@ public void connectToRedis(String[] stations) {
 6.	https://lettuce.io/docs/getting-started.html
 7.	https://lettuce.io/core/release/api/
 8.	https://stackoverflow.com/
+9.	GPS Based Bus Tracking System Leeza Singla, Dr. Parteek Bhatia
+10.	The Prediction of Bus Arrival Time Using Global Positioning System Data And Dynamic Traffic Information Tongyu Zhu, Fajin Ma, Tao Ma, Congcong Li State Key Laboratory of Software Development Environment
