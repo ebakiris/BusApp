@@ -2,7 +2,7 @@
 
 The application was developed on the Android Studio platform and consists of two main parts. The first is the one where the user enters a starting location for the journey, a destination location and the application uses this data and displays on the screen the best bus option for completing the journey. The second part of the application consists of several options with the bus lines and the result is the route with the times and days of the bus line in question.
 
-**User defines pick-up and drop-off locations**
+## **User defines pick-up and drop-off locations**
 
 When the application starts, the user sees the home page as indicated in Fig 1(a). Initially, he will choose his starting location based on two options: to choose from the map or to choose his own location. If the user decide to select from the map, Figure 1 (b) appears. The user is given the possibility to move the pin to any point on the map or even search for a point.
 
@@ -23,7 +23,7 @@ By clicking on the arrow, the user is taken to Figure 2 (b) where the following 
   <figcaption>Fig 2. (a) The user is ready to search for a route. (b)The result of the search and the proposed route with information. </figcaption>
 </p>
 
-**User gets informed about the bus lines and the time schedules**
+## **User gets informed about the bus lines and the time schedules**
 
 In the second part of the application, the user can select the bus line he wants to see information about the stops and departure times from the starting point. To get to it, he selects the appropriate option through the menu that has been configured and is shown in Figure 3 (b). Then after selecting the line, Figure 3 (a) is displayed. As we know every line has a start and end point. So, we have two directions with separate stops and times. Therefore, the user will have the appropriate options. The display function of the stops and times is designed so that if they do not fit on the screen the user can scroll down (Figure 5 center and right).
 
@@ -38,13 +38,13 @@ In the second part of the application, the user can select the bus line he wants
   <figcaption>Fig 4. (a) There are the two directions of the respective line. (b) The stops from "Anavros" to "Nea Ionia" and (c) the time schedule for the same line. </figcaption>
 </p>
 
-**Data source and Database management system**
+## **Data source and Database management system**
 
 The data were taken from the official website of the urban transport authority of city of Volos [1]. Due to the lack of data regarding the locations of the longitude, latitude, these were obtained experimentally, crossing the bus line 3 (both directions).
 
 The data management system used is a type of NoSQL database and specifically a Key-value store. The **Redis** database is the one that was chosen for this application and was deemed suitable.
 
-*Downloading and installing Redis*
+### *Downloading and installing Redis*
 
 The official Redis website provides installation guides for Linux only. For installation on Windows, it is sufficient to download the latest version from GitHub [2]. After downloading, we go to the folder and simply execute the redis-server file. This runs the server locally which will contain the data we will import, Figure 5 (left). By executing the redis-client file we can execute various commands to import, delete and retrieve data from the server, Figure 6 (right). In this particular snapshot we executed the keys * command which displays all the keys present in the database. In this case, they are lists and geodata, i.e. keys with coordinates and members.
 
@@ -53,12 +53,12 @@ The official Redis website provides installation guides for Linux only. For inst
   <figcaption>Fig 5. Connecting and retrieving data from the server. </figcaption>
 </p>
 
-*Accessing the server through the application*
+### *Accessing the server through the application*
 
 To access the data from the application, we need a Redis API for Java programming language. From the official website [3] we can see which one is suitable for us. There are many for this language, so Lettuce was chosen. It is easily downloaded from GitHub [5] and following the instructions we import it into Android Studio [6]. Guided by the documentation [4], we can call the necessary functions in our files to connect to the server and use the data. 
 
 
-# Java Code
+## Java Code
 
 We first create the client that will connect to the database, the connection and define the redis commands.
 
@@ -97,7 +97,7 @@ public void connectToRedis(String[] stations) {
 }
 ```
 
-# References
+## References
 
 1.	http://www.astikovolou.gr/
 2.	https://github.com/tporadowski/redis/releases
