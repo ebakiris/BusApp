@@ -96,5 +96,16 @@ public void connectToRedis(String[] stations) {
 
   connection.close(); 
   redisClient.shutdown();
-
 }
+```
+
+# References
+
+1.	http://www.astikovolou.gr/
+2.	https://github.com/tporadowski/redis/releases
+3.	https://redis.io/clients
+4.	https://lettuce.io/core/release/api/
+5.	https://github.com/lettuce-io/lettuce-core/releases
+6.	https://lettuce.io/docs/getting-started.html
+7.	https://lettuce.io/core/release/api/
+8.	https://stackoverflow.com/
