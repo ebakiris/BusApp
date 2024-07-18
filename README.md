@@ -1,6 +1,4 @@
-**Application** **for** **the** **timetables** **of**
-**the** **urban** **transport** **of** **the** **city** **of**
-**Volos,** **in** **Android.**
+# **Application** **for** **the** **timetables** **of** **the** **urban** **transport** **of** **the** **city** **of** **Volos**
 
 The application was developed on the Android Studio platform and consists of two main parts. The first is the one where the user enters a starting location for the journey, a destination location and the application uses this data and displays on the screen the best bus option for completing the journey. The second part of the application consists of several options with the bus lines and the result is the route with the times and days of the bus line in question.
 
